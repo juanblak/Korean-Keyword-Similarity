@@ -1,3 +1,3 @@
-1. Preprocess the novels
-2. Edit the kewords
+1. Preprocess the novel
+2. Edit the keword
 3. Calculate the similarity
